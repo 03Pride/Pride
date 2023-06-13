@@ -1,0 +1,2 @@
+# Pride
+Vscode
